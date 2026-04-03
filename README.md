@@ -1,4 +1,4 @@
-# Priti-Taparia-Data-Analyst-Portfolio
+# Priti-Taparia-Data-Analyst
 
 Hi, I'm Priti, a Data Analyst with strong expertise in SQL, Python, Tableau, and Power BI, specializing in
 transforming complex datasets into actionable business insights.
