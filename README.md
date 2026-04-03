@@ -17,4 +17,4 @@ Key Skills & Expertise:
 • Cloud Analytics & Data Warehousing
 I enjoy solving business problems using data and building scalable analytics solutions.
 
-My CV in pdf.
+My CV in [pdf](https://github.com/PritiT29/PritiT29/blob/bc85f2bc75e38545fb51cc50ce2b3d97ddf3e54c/PRITI_TAPARIA%20(1)%20(1).pdf).
