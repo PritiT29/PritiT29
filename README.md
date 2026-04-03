@@ -17,4 +17,21 @@ Key Skills & Expertise:
 • Cloud Analytics & Data Warehousing
 I enjoy solving business problems using data and building scalable analytics solutions.
 
-My CV in pdf.
+My CV in [pdf](https://github.com/PritiT29/PritiT29/blob/2e4d6623e7709e930a5340df167b0ebbac3709e8/PRITI_TAPARIA%20(1)%20(1).pdf).
+
+Portfolio Projects:
+• Cyclistic Data Analysis (BigQuery, SQL, Tableau) [https://github.com/PritiT29/Cyclistic-Bike-Share-Analysis]
+- Performed data cleaning, transformation, and aggregation on large datasets
+- Built dashboards to analyze rider behavior and trends
+ 
+• Bank Customer Complaints Analysis (Tableau, SQL) [https://github.com/PritiT29/Bank-Customer-Complaint-Analysis]
+- Identified complaint patterns and built KPI dashboards with geospatial insights
+  
+• HR Analytics Dashboard (Tableau, Excel)[https://github.com/PritiT29/HR-Analytics]
+- Analyzed attrition, employee performance, and workforce trends
+  
+• SQL Analytics Project (Oracle)[https://github.com/PritiT29/SQL]
+- Developed complex SQL queries (CTEs, joins) to analyze salary distributions
+  
+• Bike Rental Data Analysis (Excel)
+- Used pivot tables and charts to derive actionable insights
