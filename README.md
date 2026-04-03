@@ -35,3 +35,10 @@ Portfolio Projects:
   
 • Bike Rental Data Analysis (Excel)
 - Used pivot tables and charts to derive actionable insights
+
+Certifications
+• PL-300: Microsoft Power BI Data Analyst — Microsoft (2026)
+• Google Advanced Data Analytics Professional Certificate (2025)
+• Google Data Analytics Professional Certificate
+• Google Business Intelligence Certificate
+• IBM Python for Data Science
